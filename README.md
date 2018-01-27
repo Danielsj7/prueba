@@ -1,2 +1,2 @@
-# prueba
+# Prueba
 Estoy aprendiendo.
